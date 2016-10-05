@@ -1,0 +1,58 @@
+body {
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+
+.pages {
+  height: 900px;
+}
+
+
+/********Home Page Header******/
+#front-page {
+  width: 600px;
+  margin: 300px auto 50px;
+  text-align: center;
+}
+
+#front-page img {
+  width: 400px;
+  margin-bottom: 30px;
+}
+
+#main-nav a {
+  padding: 5px 5px 15px;
+  font-size: 32px;
+  margin: 0 20px;
+  text-decoration: none;
+  color: black;
+}
+
+#main-nav a:hover {
+  border-bottom: 3px solid black;
+}
+
+.page-down i {
+  color: black;
+  margin: 380px 0 0;
+  font-size: 32px;
+}
+
+/******Create your own bowl - STEPS******/
+#bowl-creation h2 {
+  text-align: center; 
+  background-color: #ACA14F;
+  padding: 20px;
+  color: white;
+}
+
+#bowl-creation h2 span {
+  color: #3E3919;
+}
+
+.steps img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
